@@ -17,9 +17,11 @@ To achieve the objective given to us by Galmont Hotel management team, we have p
 This Python code uses the SerpApi to fetch Google Maps reviews for a specific place, identified by a data_id (Google Maps Place ID). We tried many APIs to find the one that best suited our needs.
 
 ## Graphical Analysis
+### Techniques used: Data Visualization, Descriptive Statistics
 We conducted a graphical analysis of the reviews data, including reviews in different languages, to perform a descriptive analysis.
 
 ## Thematic Analysis
+### Techniques Used: Text Preprocessing, Natural Language Processing (NLP), Theme Identification
 After obtaining the reviews data, we focused on reviews with a rating of 3 stars or lower. Here is the process for thematic analysis:
 
 1. Data Cleaning
@@ -27,6 +29,7 @@ After obtaining the reviews data, we focused on reviews with a rating of 3 stars
 3. Identifying Key Themes
 
 ## Modeling Based on Spending Patterns
+### Techniques Used: Machine Learning, Feature Engineering, Model Evaluation
 We developed a classification model to predict guest expenditure patterns based on their review sentiments. Here are the steps:
 
 1. Data Preprocessing
