@@ -12,3 +12,26 @@ To achieve the objective given to us by Galmont Hotel management team, we have p
 2. **Graphical Analysis:** There were some reviews which were present in different languages, so we have used these reviews for descriptive analysis.
 3. **Thematic Analysis:** After getting the reviews data, we have used the reviews which have a rating of 3 star and lower to perform thematic analysis on the data.
 4. **Modelling based on spending patterns:** We have designed a classification model based on the expenditure done by the guests as analysed from the reviews.
+
+## Web Scraping
+This Python code uses the SerpApi to fetch Google Maps reviews for a specific place, identified by a data_id (Google Maps Place ID). We tried many APIs to find the one that best suited our needs.
+
+## Graphical Analysis
+We conducted a graphical analysis of the reviews data, including reviews in different languages, to perform a descriptive analysis.
+
+## Thematic Analysis
+After obtaining the reviews data, we focused on reviews with a rating of 3 stars or lower. Here is the process for thematic analysis:
+
+1. Data Cleaning
+2. Text Preprocessing
+3. Identifying Key Themes
+
+## Modeling Based on Spending Patterns
+We developed a classification model to predict guest expenditure patterns based on their review sentiments. Here are the steps:
+
+1. Data Preprocessing
+2. Feature Engineering
+3. Model Training and Evaluation
+
+## Results
+Our analysis provided valuable insights into the factors affecting guest satisfaction and spending patterns at the Galmont Hotel. The thematic analysis and predictive model allowed the hotel to target specific areas for improvement, thereby enhancing guest experiences and potentially increasing revenue.
